@@ -37,7 +37,7 @@ def vgg16(inputs):
   return net
 ```
 
-```python{.bad}
+```python {.bad}
 # Layers 1-3 (out of 16) of VGG16 in native tensorflow.
 def vgg16(inputs):
   with tf.name_scope('conv1_1') as scope:
