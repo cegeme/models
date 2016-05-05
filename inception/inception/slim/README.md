@@ -4,7 +4,7 @@ TF-Slim is a lightweight library for defining, training and evaluating models in
 TensorFlow. It enables defining complex networks quickly and concisely while
 keeping a model's architecture transparent and its hyperparameters explicit.
 
-[[TOC]]
+[TOC]
 
 ## Teaser
 
